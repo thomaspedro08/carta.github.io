@@ -4,7 +4,7 @@
 <html lang="pt-br">
     
 <head>
-	<title>Carta</title>
+	<legend>Carta</legend>
 	<link rel="stylesheet" type="text/css" href="style.css">  
 
 </head>
